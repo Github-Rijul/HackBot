@@ -1,35 +1,32 @@
 {
     "name": "Hack Bot",
-    "description": "A bot CAN DO ANYTHING",
+    "description": "This is HackBot Which is used to Hack Anyone Telegram Account by his Pyrogram or Telethon Session.Made By @TeamLegendXD",
     "logo": "",
     "keywords": [
-        "TELETHON",
-        "LEGENDBOY",
+        "Telethon",
+        "LegendBoy",
         "Telegram Bot",
-        "piro bolte",
-        "LegendBoy_XD"
+        "LegendBoy_OP"
     ],
-    "website": "",
-    "success_url": "https://telegram.dog/LegendBoy_XD",
+    "success_url": "https://telegram.dog/OfficialHack_Bot",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "Enter Your Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "Enter Your API Hash from my.telegram.org",
             "value": ""
         },
-        "YOUR_NAME": {
-            "description": "Your Name Plz",
-            "value": ""
+        "ENV": {
+            "description": "Enter ANYTHING",
+            "value": "ANYTHING"
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "Enter Your API ID from my.telegram.org",
             "value": ""
         }
     },
-    "addons": [],
     "buildpacks": [
         {
             "url": "heroku/python"
