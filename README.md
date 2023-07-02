@@ -1,6 +1,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=HACKBOT&theme=dark)
 
-[![LEGENDBOTSPAM](https://graph.org/file/cf16bdb07b48d404a1f3c.jpg]()
+[![LEGENDBOTSPAM](https://graph.org/file/cf16bdb07b48d404a1f3c.jpg)](https://github.com/LEGEND-AI/HACKBOT)
 
 <h1 align="center">
 <b>  『ＨＡＣＫＢＯＴ』 </b>
