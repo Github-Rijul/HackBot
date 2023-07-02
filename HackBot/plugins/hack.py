@@ -1,7 +1,7 @@
 from HackBot import app
 from pyrogram import filters , Client
 
-from HB import (
+from HB.fucntions import (
     users_gc,
     user_info,
     banall,
