@@ -1,4 +1,4 @@
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=HACKBOT&theme=dark)](https://github.com/LEGEND-AI/HACKBOT)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=HACKBOT&theme=dark)](https://github.com/LEGEND-AI/HACKBOT)
 
 [![LEGENDBOTSPAM](https://graph.org/file/cf16bdb07b48d404a1f3c.jpg)](https://github.com/LEGEND-AI/HACKBOT)
 
