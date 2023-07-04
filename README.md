@@ -54,8 +54,47 @@
 
 <details>
 <summary>Deploy on Google Cloud</summary>
+<h2 align="center"><b>⠂Google Cloud ⠂
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+GoogleCloud+•&style=social)](https://youtu.be/1pLXf9jG8e4)
+
+----
+
+<h3>Commands</h3>
+
+<b>1) apt update & upgrade</b>
+
+```python
+sudo apt upgrade && apt update
+```
+
+<b>2) Install python3, git </b>
+
+```python
+pkg install python3 && pkg install git
+```
+
+<b>3) clone repo and open dictionary </b>
+
+```python
+git clone https://github.com/LEGEND-AI/HACKBOT && cd/HACKBOT
+```
+
+<b>4) Install requirements </b>
+
+```python
+pip3 install -r requirements.txt
+```
+
+
+<b>5) Run start.py to fill values and start HackBot </b>
+
+```python
+python3 start.py
+```
+
+<b>6) Now Your Bot Has Been Started it will run till your terminal opened
 
 </details>
 
