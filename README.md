@@ -63,10 +63,10 @@
 
 <h3>Commands</h3>
 
-<b>1) apt update & upgrade</b>
+<b>1) update & upgrade</b>
 
 ```python
-sudo apt upgrade && apt update
+sudo apt upgrade && sudo apt update
 ```
 
 <b>2) Install python3, git </b>
