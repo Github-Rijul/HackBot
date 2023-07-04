@@ -53,7 +53,7 @@
 -------
 
 <details>
-<summary>Deploy on Google Cloud</summary>
+<summary> Deploy on Google Cloud </summary>
 <h2 align="center"><b>⠂Google Cloud ⠂
 </b></h2>
 
@@ -99,8 +99,9 @@ python3 start.py
 </details>
 
 ------
+
 <details>
-<summary>Vps Deployment</summary>
+<summary> Vps Deployment</summary>
 <h2 align="center"><b>⠂Vps ⠐
 </b></h2>
 
@@ -118,6 +119,8 @@ python3 start.py
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•& style=social)](https://youtu.be/CH_KO1wim2o)
 
 </details>
+
+------
 
 <details>
 <summary>Railway Deployment </summary>
