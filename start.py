@@ -1,6 +1,6 @@
 import os
 
-from LegendSS.startup import *
+from HB.startup import *
 
 os.system("clear")
 
