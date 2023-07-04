@@ -25,7 +25,7 @@ if opp.lower() in ["y", "yes"]:
         print(check)
         f.close()
         check_again()
-        if not len(lines) == 35:
+        if not len(lines) == 3:
             os.system("rm -rf .env")
             y = open(".env", "w")
             y.write(vars)
