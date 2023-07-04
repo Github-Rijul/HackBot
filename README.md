@@ -38,7 +38,8 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgv4QgLLpyHVWtBiTpr5srg?label=TeamLegend&style=social)](https://youtube.com/@TeamLegendBot)
 
 
-<b>-------</b>
+------
+
 <details>
 <summary>Deploy on Heroku </summary>
 <h2 align="center"><b>⠂Heroku⠐
