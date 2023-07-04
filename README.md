@@ -60,7 +60,6 @@
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+GoogleCloud+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
-----
 
 <h3>Commands</h3>
 
