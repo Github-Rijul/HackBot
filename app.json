@@ -22,7 +22,7 @@
             "description": "Enter ANYTHING",
             "value": "ANYTHING"
         },
-        "APP_ID": {
+        "API_ID": {
             "description": "Enter Your API ID from my.telegram.org",
             "value": ""
         }
