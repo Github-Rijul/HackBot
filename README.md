@@ -99,27 +99,52 @@ python3 start.py
 </details>
 
 ------
-
-## Vps Deployment [Coming soon]
+<details>
+<summary>Vps Deployment</summary>
+<h2 align="center"><b>⠂Vps ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Vps+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-## Okteto Deployment [Coming soon]
+</details>
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•&style=social)](https://youtu.be/CH_KO1wim2o)
+-----
 
-## Railway Deployment [Coming soon]
+<details>
+<summary>Okteto Deployment</summary>
+<h2 align="center"><b>⠂Okteto⠐
+</b></h2>
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•& style=social)](https://youtu.be/CH_KO1wim2o)
+
+</details>
+
+<details>
+<summary>Railway Deployment </summary>
+<h2 align="center"><b>⠂Railway ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
+</details>
 
-## Mongenius Deployment 
+------
 
+<details>
+<summary>Mogneius</summary>
+<h2 align="center"><b>⠂Mogneius⠐
+</b></h2>
+  
+- [![YouTube Video Views](https://img.shields.io/youtube/views/ETE_v68Bt8Y?label=Tutorial+•+Mogenius+•&style=social)](https://youtu.be/ETE_v68Bt8Y)
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/ETE_v68Bt8Y?label=Tutorial+•+Mongenius+•&style=social)](https://youtu.be/ETE_v68Bt8Y)
+</details>
 
+------
 
-## Termux Deployment 
+<details>
+<summary>Termux Deployment </summary>
+<h2 align="center"><b>⠂Termux ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/PmIPM8ZyQKQ?label=Tutorial+•+Termux+•&style=social)](https://youtu.be/PmIPM8ZyQKQ)
 
@@ -159,6 +184,10 @@ python3 start.py
 ```
 
 <b>6) Now Your Bot Has Been Started Then Click On Exit
+
+</details>
+
+------
 
 ## Qovery Deployment [Coming soon]
 
