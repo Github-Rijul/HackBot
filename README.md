@@ -192,29 +192,57 @@ python3 start.py
 
 ------
 
-## Qovery Deployment [Coming soon]
+<details>
+<summary>Qovery Deployment</summary>
+<h2 align="center"><b>⠂Qovery ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Qovery+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
+</details>
 
-## Fly.io Deployment [Coming soon]
+------
+
+<details>
+<summary>Fly Deployment </summary>
+<h2 align="center"><b>⠂Fly ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Fly.io+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-## GitHub Action Deployment [Coming soon]
+<details>
+<summary>Github Action Deployment </summary>
+<h2 align="center"><b>⠂Github Action ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Github+•+Action+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-## Render Deployment [Coming soon]
+</details>
+
+-----
+
+<details>
+<summary>Render Deployment</summary>
+<h2 align="center"><b>⠂Render ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Render+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-## Koyeb Deployment [Coming soon]
+
+</details>
+
+------
+
+<details>
+<summary>Koyeb Deployment </summary>
+<h2 align="center"><b>⠂Koyeb ⠐
+</b></h2>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Koyeb+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
+</details>
 
-
+-----
 
 ## Bugs
 
