@@ -1,6 +1,6 @@
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=HACKBOT&theme=dark)](https://github.com/LEGEND-AI/HACKBOT)
 
-[![LEGENDBOTSPAM](https://graph.org/file/cf16bdb07b48d404a1f3c.jpg)](https://github.com/LEGEND-AI/HACKBOT)
+[![HACKBOT](https://graph.org/file/cf16bdb07b48d404a1f3c.jpg)](https://github.com/LEGEND-AI/HACKBOT)
 
 <h1 align="center">
 <b>  『ＨＡＣＫＢＯＴ』 </b>
@@ -29,33 +29,13 @@
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightyellow)](https://t.me/LegendBot_OP)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightyellow)](https://t.me/LegendBot_AI)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightyellow)](https://t.me/TeamLegendBots)
  
 -------
 
 ## YouTube 📺
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgv4QgLLpyHVWtBiTpr5srg?label=TeamLegend&style=social)](https://youtube.com/@TeamLegendBot)
-
-[![YouTube Video Views](https://img.shields.io/youtube/views/1A4xVEfyxYU?label=Intro+•&style=social)](https://youtu.be/1A4xVEfyxYU)
-
-------
-
-## 📄 <a name=" Required Variable"></a>Variable
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/yA9NsYE7SoM?label=Collect+•+Variable+•&style=social)](https://youtu.be/yA9NsYE7SoM)
-
-Required Variable | Description
-:--- | :---
-• APP_ID / API_HASH | Get This From my.telegram.org Or [Start Bot](https://t.me/Api_scrapper_fastbot)
-• BOT_TOKEN | Get This From [Bot Father](https://t.me/BotFather)
-• SUDO_USERS | Start [Rose Bot](https://t.me/MissRose_Bot)
-**Optional Variable** | **Description**
-• START_PIC / PING_PIC /HELP_PIC | Get This From [Click Here](https://t.me/vtelegraphbot)
-• START_MESSAGE | Put Your Start Message Here
-• HANDLER | Put Any One HANDLER [. , * #  / % ]
-• LOG_CHANNEL | Create New Group Add [Bot](https://t.me/missrose_bot)
-• BOT_TOKEN | Get This From [Bot Father](https://t.me/BotFather)
 
 
 -------
