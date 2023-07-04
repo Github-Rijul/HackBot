@@ -210,6 +210,10 @@ python3 start.py
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Fly.io+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
+</details>
+
+------
+
 <details>
 <summary>Github Action Deployment </summary>
 <h2 align="center"><b>⠂Github Action ⠐
