@@ -1,2 +1,2 @@
 telethon
-pyHB
+pyHB #https://github.com/LEGEND-AI/pyHB
