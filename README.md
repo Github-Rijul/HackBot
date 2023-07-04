@@ -40,25 +40,28 @@
 
 -------
 <details>
-<summary> •Deploy on Heroku •</summary>
+<summary>Deploy on Heroku </summary>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 </details>
+
 -------
-## Deploy On Google Cloud
+
+<details>
+<summary>Deploy on Google Cloud</summary>
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+GoogleCloud+•&style=social)](https://youtu.be/1pLXf9jG8e4)
+
+</details>
 
 ------
 
 ## Vps Deployment [Coming soon]
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Vps+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
-
-
 
 ## Okteto Deployment [Coming soon]
 
