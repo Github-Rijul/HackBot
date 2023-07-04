@@ -41,11 +41,13 @@
 -------
 <details>
 <summary>Deploy on Heroku </summary>
+<h2 align="center"><b>⠂Heroku⠐
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+</b></h2>
 </details>
 
 -------
